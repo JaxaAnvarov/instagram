@@ -1,17 +1,8 @@
 # Instagram
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/s6wNGrw/instagram2.png" alt="instagram2" border="0"></a>
 
-A new Flutter project.
+Flutterdagi ya'na bir katta loyiha. Bugalgi App 'Instagram'. 
+## App Haqida Qisqacha.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Appda Login qismi mavjud bo'lim foydalanuvchi royhatdan o'tganini ko'rib borish mumkun, chunki login qismida firebase mavjud.
+Rasmlar ham firebase keladi. Shu paytgacha Flutterda bunaqa katta loyiha ustida ish o'lib bormagan edim , ha'to va kamchiliklari uchun uzur ✊.
